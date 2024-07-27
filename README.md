@@ -1,9 +1,13 @@
-Magnificent Seven Stocks Trend Analysis
+## **Course: ACENET Microcredential in Advanced Computing**
+
+### **Project Title: Improving Price Prediction Accuracy for Magnificent Seven Stocks Utilizing Cross-Stock Historical Data**
+
+### **Participant Name: Kunasekaran Nirmalkanna**
+
 
     1. Introduction
 
-My project will focus on conducting a comprehensive analysis of the trends in seven selected stocks (Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta and Tesla), which are referred to as the "Magnificent Seven Stocks." The analysis involves exploring historical stock price data, developing predictive models to forecast future trends, and evaluating the performance of these models.
-The significance of this analysis lies in its practical applications in the financial markets. By understanding the historical trends of these seven stocks and developing accurate predictive models, investors and traders can make more informed decisions regarding their investments. I was inspired to choose this topic due to my interest in both data science and finance. 
+This project explores improving stock price prediction accuracy for the "Magnificent Seven" stocks by incorporating historical data from other stocks into traditional AR(1) models. The study finds that including multiple lags of cross-stock prices enhances prediction accuracy in some instances.
 
     2. Selection of dataset
 

@@ -15,7 +15,8 @@ This project explores improving stock price prediction accuracy for the "Magnifi
         2. ISP_code.ipynb: Complete code with outcomes in Jupyter Notebook.
         3. Job_Script.sh: The job script for siku. 
         4. Presentation.pdf: Presentation slides presented on July 23, 2024.
-        5. Python_Script.py: The code from ISP_code.ipynb is copied to a Python file so that it can be run in Siku. 
+        5. Python_Script.py: The code from ISP_code.ipynb is copied to a Python file 
+                             so that it can be run in Siku. 
 
     Folder
         1. Plots: Contains all the plots used in the ISP Report.pdf and Presentation.pdf.

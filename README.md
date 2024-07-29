@@ -1,9 +1,9 @@
-## **Course: ACENET Microcredential in Advanced Computing**
+# Independent Study Project (ISP)
 
-### **Project Title: Improving Price Prediction Accuracy for Magnificent Seven Stocks Utilizing Cross-Stock Historical Data**
-
-### **Participant Name: Kunasekaran Nirmalkanna**
-### **Submitted: July 31, 2024**
+### *Project Title:* Improving Price Prediction Accuracy for Magnificent Seven Stocks Utilizing Cross-Stock Historical Data
+### *Course:* ACENET Microcredential in Advanced Computing
+### *Participant Name:* Kunasekaran Nirmalkanna
+### *Submitted:* July 31, 2024
 
 
     Description of the project
